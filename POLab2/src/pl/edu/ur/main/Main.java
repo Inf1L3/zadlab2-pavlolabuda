@@ -84,7 +84,7 @@ public class Main {
 //                        + "5 - wyznacz wartość maksymalną\n"
 //                        + "0 - Zakończ działanie programu.");
 //                y = odczyt.nextInt();
-//                
+//                 
 //                switch(y)
 //                {
 //                    case 0 : System.out.println("Program zakończy działane."); break;
